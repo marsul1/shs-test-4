@@ -1,8 +1,8 @@
 name: SHS Reporting CI
 on:
   push:
-    branches:
-      - main/foss
+    paths:
+      - 'foss/**'
 permissions:
   contents: write
 jobs:
