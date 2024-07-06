@@ -1,6 +1,6 @@
 # Foss Inventory 
 
-## Project marsul1@shs-test-4 and release v2
+## Project marsul1@shs-test-4 and release v3
 
 ## Created on: Sat Jul 06 10:20:04 WEST 2024 
 
@@ -8,13 +8,6 @@
 
 | Dependency | License     |
 |------------|-------------|
-| [pkg:maven/org.apache.commons/commons-jcs3-core@3.2](https://ossindex.sonatype.org/component/pkg:maven/org.apache.commons/commons-jcs3-core@3.2?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | https://www.apache.org/licenses/LICENSE-2.0.txt |
-| [pkg:maven/org.apache.commons/commons-lang3@3.14.0](https://ossindex.sonatype.org/component/pkg:maven/org.apache.commons/commons-lang3@3.14.0?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | https://www.apache.org/licenses/LICENSE-2.0.txt |
-| [pkg:maven/commons-logging/commons-logging@1.2](https://ossindex.sonatype.org/component/pkg:maven/commons-logging/commons-logging@1.2?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | http://www.apache.org/licenses/LICENSE-2.0.txt |
-| [pkg:maven/org.apache.commons/commons-pool2@2.12.0](https://ossindex.sonatype.org/component/pkg:maven/org.apache.commons/commons-pool2@2.12.0?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | https://www.apache.org/licenses/LICENSE-2.0.txt |
-| [pkg:maven/org.apache.commons/commons-text@1.11.0](https://ossindex.sonatype.org/component/pkg:maven/org.apache.commons/commons-text@1.11.0?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | https://www.apache.org/licenses/LICENSE-2.0.txt |
-| [pkg:maven/commons-validator/commons-validator@1.7](https://ossindex.sonatype.org/component/pkg:maven/commons-validator/commons-validator@1.7?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | https://www.apache.org/licenses/LICENSE-2.0.txt |
-| [pkg:maven/com.github.spullara.mustache.java/compiler@0.9.6](https://ossindex.sonatype.org/component/pkg:maven/com.github.spullara.mustache.java/compiler@0.9.6?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | Apache License 2.0: http://www.apache.org/licenses/LICENSE-2.0 |
 | [pkg:maven/us.springett/cpe-parser@2.0.3](https://ossindex.sonatype.org/component/pkg:maven/us.springett/cpe-parser@2.0.3?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0.txt |
 | [pkg:generic/GrokAssembly@3.2.0.0](https://ossindex.sonatype.org/component/pkg:generic/GrokAssembly@3.2.0.0?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | No license found |
 | [pkg:maven/org.owasp/dependency-check-core@9.0.9](https://ossindex.sonatype.org/component/pkg:maven/org.owasp/dependency-check-core@9.0.9?utm_source=dependency-check&utm_medium=integration&utm_content=9.0.9) | No license found |
