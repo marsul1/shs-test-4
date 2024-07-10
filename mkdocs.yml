@@ -1,4 +1,9 @@
-site_name: My Foss Report
+site_name: My Docs
 docs_dir: foss
 markdown_extensions:
   - pymdownx.magiclink
+theme:
+    name: material
+    nav:
+        - Home: index.md
+        - Foss Inventory: inventory.md
